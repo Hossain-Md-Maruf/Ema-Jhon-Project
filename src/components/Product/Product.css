@@ -1,0 +1,47 @@
+.product
+{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding-bottom: 5px; 
+   
+}
+.product-name
+{
+    color: blue;
+    font-weight: 400;
+    display: inline-block;
+    
+}
+.img
+{
+    height: 250px;
+    width: 300px;
+}
+.btn-regular
+{
+    background-color: rgb(238, 198, 96);
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+    /* margin-left: auto;
+    margin-right: auto; */
+   
+    
+    
+}
+
+.icon-rating
+{
+    color: gold;
+}
+
+.write
+{
+    margin-left: 5%;
+    margin-right: 80%;
+    
+
+}

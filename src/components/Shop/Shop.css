@@ -1,0 +1,31 @@
+.shop-container
+{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.product-container
+{
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 30px;
+}
+/* .cart-container
+{
+    border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 30px;
+
+} */
+
+.search-container
+{
+    background-color: rgba(0, 0, 0, 0.651);
+    line-height: 40px;
+}
+.search-container input
+{
+    width: 640px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
